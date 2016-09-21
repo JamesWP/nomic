@@ -4,3 +4,4 @@ Arkady English | Speaker | 0
 Harry Jeffery |	Voter |	0
 Murray Colpman	| Voter |	0
 Nakul Khanna	| Voter	| 0
+Peter Kuehne | Voter | 0
