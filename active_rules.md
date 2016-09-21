@@ -151,6 +151,8 @@ Voters may make proposals. As soon as possible after receiving
 a proposal, the Speaker shall assign the proposal a number and
 distribute the proposal along with its number to all players
 
+(Speaker's note: issueing a pull request counts as submitting it to the speaker.)
+
 ##205 Mutable - Voting period
 
 The prescribed voting period for a proposal shall be one week,
