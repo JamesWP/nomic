@@ -2,8 +2,6 @@
 
 Note: by convention, Spivak pronouns are used: e for he/she; ey, eir, em, etc... for they, their, them, etc...
 
-##Structure
-
 ##101 Immutable - Scope
 
 All players must always abide by all the rules then in effect,
@@ -195,7 +193,7 @@ For all other proposals, a simple majority of votes legally cast.
 This rule defers to rules which set the required number of votes
 for proposals which propose to transmute a rule.
 
-#210 Mutable - Enactment
+##210 Mutable - Enactment
 
 An adopted rule change takes full effect at the moment of the
 completion of the vote that adopted it.
