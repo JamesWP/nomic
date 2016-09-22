@@ -151,7 +151,7 @@ Voters may make proposals. As soon as possible after receiving
 a proposal, the Speaker shall assign the proposal a number and
 distribute the proposal along with its number to all players
 
-(Speaker's note: issueing a pull request counts as submitting it to the speaker.)
+(Speaker's note: issuing a pull request counts as submitting it to the speaker.)
 
 ##205 Mutable - Voting period
 
@@ -270,12 +270,12 @@ spirit of the game before applying other standards.
 
 In addition to duties which may be listed elsewhere in the rules,
 the Speaker shall have the following duties:
--register new players
--maintain a list of all players and their current scores, and
+- register new players
+- maintain a list of all players and their current scores, and
 make such a list available to all players
--maintain a complete list of the current rules, and make such a
+- maintain a complete list of the current rules, and make such a
 list available to all players
--make a random determination whenever such determination is
+- make a random determination whenever such determination is
 required by the rules.
 
 ##219 Mutable - Victory by paradox
