@@ -105,7 +105,7 @@ Status: Voting open until 5th October 2016, 16:06 BST
 
 #306 - Amendment to 'Voting period'
 
-Proposed by: Harry Jeffrey
+Proposed by: Harry Jeffery
 
 This proposal would amend rule 205, causing it become rule 306:
 
@@ -117,7 +117,7 @@ Status: Voting open until 5th October 2016, 16:16 BST
 
 #307 - Voting for your own proposals
 
-Proposed by: Harry Jeffrey
+Proposed by: Harry Jeffery
 
 This proposal would create rule 307 with the text:
 
