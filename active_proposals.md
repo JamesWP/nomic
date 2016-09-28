@@ -102,3 +102,15 @@ This proposal would amend rule 211 as follows, causing it to become rule 205:
 Quorum: 2 votes
 
 Status: Voting open until 5th October 2016, 16:06 BST
+
+#306 - Amendment to 'Voting period'
+
+Proposed by: Harry Jeffrey
+
+This proposal would amend rule 205, causing it become rule 306:
+
+> The prescribed voting period for a proposal shall be one week, beginning at the time the Speaker distributes the proposal to all players. If at any point a proposal has received votes in favour of it from a majority of all players, the voting period ends immediately, and the proposal succeeds.
+
+Quorum: 2 votes
+
+Status: Voting open until 5th October 2016, 16:16 BST
