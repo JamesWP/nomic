@@ -90,3 +90,15 @@ This proposal would amend rule 207 as follows, causing it to become rule 304:
 Quorum: 2 votes
 
 Status: Voting open until 30th September 2016, 11:16 BST
+
+#305 - Amendment to 'Scoring'
+
+Proposed by: Nakul Khanna
+
+This proposal would amend rule 211 as follows, causing it to become rule 205:
+
+> Voters who voted against proposals which are adopted receive 10 points apiece. Players whose proposals are adopted shall receive a random number of points in the range 1-10 inclusive. Players whose proposals are not adopted shall lose 10 points. *Voters who voted in favour of a proposal which is adopted gain 5 points apiece*
+
+Quorum: 2 votes
+
+Status: Voting open until 5th October 2016, 16:06 BST
