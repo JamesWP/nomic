@@ -114,3 +114,15 @@ This proposal would amend rule 205, causing it become rule 306:
 Quorum: 2 votes
 
 Status: Voting open until 5th October 2016, 16:16 BST
+
+#307 - Voting for your own proposals
+
+Proposed by: Harry Jeffrey
+
+This proposal would create rule 307 with the text:
+
+> Players are obligated to vote in favour of their own proposals, and as such automatically and irrevocably vote in favour of it when the proposal is submitted to the speaker.
+
+Quorum: 2 votes
+
+Status: Voting open until 5th October 2016, 16:38 BST
