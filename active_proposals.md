@@ -95,7 +95,7 @@ Status: Voting open until 30th September 2016, 11:16 BST
 
 Proposed by: Nakul Khanna
 
-This proposal would amend rule 211 as follows, causing it to become rule 205:
+This proposal would amend rule 211 as follows, causing it to become rule 305:
 
 > Voters who voted against proposals which are adopted receive 10 points apiece. Players whose proposals are adopted shall receive a random number of points in the range 1-10 inclusive. Players whose proposals are not adopted shall lose 10 points. *Voters who voted in favour of a proposal which is adopted gain 5 points apiece*
 
