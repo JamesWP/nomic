@@ -109,7 +109,7 @@ Proposed by: Harry Jeffrey
 
 This proposal would amend rule 205, causing it become rule 306:
 
-> The prescribed voting period for a proposal shall be one week, beginning at the time the Speaker distributes the proposal to all players. If at any point a proposal has received votes in favour of it from a majority of all players, the voting period ends immediately, and the proposal succeeds.
+> The prescribed voting period for a proposal shall be one week, beginning at the time the Speaker distributes the proposal to all players. *If at any point a proposal has received votes in favour of it from a majority of all players, the voting period ends immediately, and the proposal succeeds.*
 
 Quorum: 2 votes
 
