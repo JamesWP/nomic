@@ -86,3 +86,30 @@ Peter Kuehne: Against
 Murray Colpman: Against  
 Daniel PLayle: For  
 
+#304 - Amendment to 'How to vote' - passed
+
+Proposed by: Murray Colpman +([1-10], 30/9/2016: see rule 302.)
+
+This proposal would amend rule 207 as follows, causing it to become rule 304: 
+
+> Voters may vote ~~either for or against~~ *on* any proposal within its prescribed voting period.
+
+> *The vote cast may be one and only one of the following:*
+
+> *a) For the proposal*
+
+> *b) Against the proposal, or*
+
+> *c) A spoilt ballot.*
+
+>  In order to be legally cast, the vote must be received by the Speaker by the end of the prescribed voting period. The Speaker may not reveal any votes until the end of the prescribed voting period. Any Voter who does not legally vote within the prescribed voting period shall be deemed to have abstained. *Spoilt ballots shall not count towards Quorum, but shall count as a vote, for the purposes of any other rule that might depend on whether or not a Voter has voted.*
+
+Quorum: 2 votes
+
+Status: Passed 3-2
+
+Nakul Khanna: Against +10 pts   
+Harry Jeffery: Against +10 pts   
+Peter Kuehne: For  
+Murray Colpman: For  
+Daniel PLayle: For  
