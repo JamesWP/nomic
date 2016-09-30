@@ -1,19 +1,5 @@
 Please send votes to the speaker.
 
-#303 - Failure to vote
-
-Proposed by: Harry Jeffery
-
-This proposal would create rule 303 with the text:
-
-> Failing to vote either for or against a motion incurs a three point penalty at the close of voting.
-
-Speakers notes: "motion" is not defined in the rules, but is taken as a synonym for "proposal".
-
-Quorum: 2 votes.
-
-Voting status: open until 30th September 2016, 9:46 BST.
-
 #304 - Amendment to 'How to vote'
 
 Proposed by: Murray Colpman
