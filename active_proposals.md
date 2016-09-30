@@ -55,7 +55,7 @@ Status: Voting open until 7th October 11:38 BST
 
 #309 - Investing
 
-Proposed by: Jarry Jeffery
+Proposed by: Harry Jeffery
 
 This proposal would create rule 309, with the text:
 
