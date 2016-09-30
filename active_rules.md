@@ -163,15 +163,6 @@ players.
 
 Each Voter has exactly one vote. The Speaker may not vote.
 
-##207 Mutable - How to vote
-
-Voters may vote either for or against any proposal within its
-prescribed voting period. In order to be legally cast, the vote
-must be received by the Speaker by the end of the prescribed voting
-period. The Speaker may not reveal any votes until the end of the
-prescribed voting period. Any Voter who does not legally vote within
-the prescribed voting period shall be deemed to have abstained.
-
 ##208 Mutable - Adopting proposals
 
 At the end of the prescribed voting period on a proposal, the
@@ -311,3 +302,22 @@ d) If the London Stock Exchange has already closed on that date, it is considere
 4) If a minimum and a maximum value are specified, let X = min + (X % max)
 
 5) X is the random integer.
+
+##304 Mutable - How to vote
+
+Voters may vote on any proposal within its
+prescribed voting period.
+
+The vote cast may be one and only one of the following:
+
+a) For the proposal
+
+b) Against the proposal, or
+
+c) A spoilt ballot.
+
+In order to be legally cast, the vote
+must be received by the Speaker by the end of the prescribed voting
+period. The Speaker may not reveal any votes until the end of the
+prescribed voting period. Any Voter who does not legally vote within
+the prescribed voting period shall be deemed to have abstained. Spoilt ballots shall not count towards Quorum, but shall count as a vote, for the purposes of any other rule that might depend on whether or not a Voter has voted.
