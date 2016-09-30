@@ -289,3 +289,25 @@ shall be declared the winner of that game, and the game ends, with
 no provision for starting another game.
 This rule takes precedence over every other rule determining the
 winner of the game.
+
+##302 - Generating random numbers
+
+When a random integer is required, it shall be derived in the following manner:
+
+1) A date shall be chosen such that:
+
+a) The London Stock Exchange is actively trading on that date.
+
+b) The date shall not be in the past.
+
+c) The date shall be the earliest valid date in the future.
+
+d) If the London Stock Exchange has already closed on that date, it is considered to be in the past, and invalid.
+
+2) Let X equal the closing price of the FTSE 100 on that date, as given by http://www.bloomberg.com/quote/UKX:IND in GBp.
+
+3) If X is non-integral, it shall be multiplied by 10 until it is an integer.
+
+4) If a minimum and a maximum value are specified, let X = min + (X % max)
+
+5) X is the random integer.
