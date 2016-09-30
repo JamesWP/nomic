@@ -29,7 +29,7 @@ Daniel PLayle: For
 
 #302 - Generating random numbers. - passed
 
-Proposed by: Harry Jeffery +??? (Range 1-10; based on FTSE100 closing price 30/9/2016)
+Proposed by: Harry Jeffery +3 (Range 1-10; based on FTSE100 closing price 29/9/2016)
 
 This proposal would create rule 302 with the text:
 
