@@ -73,3 +73,18 @@ This proposal would create rule 307 with the text:
 Quorum: 2 votes
 
 Status: Voting open until 5th October 2016, 16:38 BST
+
+#308 - Scoring updates
+
+Proposed by: James Peach
+
+This proposal would amend rule 211, causing it to become rule 308:
+
+> Voters who voted against proposals which are adopted receive 10 points apiece. 
+*Voters who voted for proposals which do not get adopted receive 10 points apiece.*
+Players whose proposals are adopted shall receive a random number of points in the range 1-10 inclusive.
+Players whose proposals are not adopted shall lose 10 points.
+
+Quorum: 2 votes
+
+Status: Voting open until 7th October 11:38 BST
