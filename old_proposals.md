@@ -20,11 +20,11 @@ Quorum: 1 vote.
 
 Voting status: 3-2 in favour - failed.
 
-Murray Colpman: Against
-Peter Kuehne: For
-Harry Jeffery: Against
-Nakul Khanna: For
-Daniel PLayle: For
+Murray Colpman: Against  
+Peter Kuehne: For  
+Harry Jeffery: Against  
+Nakul Khanna: For  
+Daniel PLayle: For  
 
 
 #302 - Generating random numbers. - passed
@@ -59,8 +59,30 @@ Quorum: 1 vote.
 
 Voting status: 3-2 in favour; passed
 
-Murray Colpman: For
-Harry Jeffrey: For
-Nakal Khanna: Against +10 pts
-Peter Kuehne: Against +10 pts
+Murray Colpman: For  
+Harry Jeffrey: For  
+Nakal Khanna: Against +10 pts  
+Peter Kuehne: Against +10 pts  
 Daniel PLayle: For
+
+#303 - Failure to vote - failed
+
+Proposed by: Harry Jeffery -10 pts
+
+This proposal would create rule 303 with the text:
+
+> Failing to vote either for or against a motion incurs a three point penalty at the close of voting.
+
+Speakers notes: "motion" is not defined in the rules, but is taken as a synonym for "proposal".
+
+Quorum: 2 votes.
+
+Voting status: tied 3-3: no majority
+
+Harry Jeffrey: For  
+Nakul Khanna: Against  
+James Peach: For  
+Peter Kuehne: Against  
+Murray Colpman: Against  
+Daniel PLayle: For  
+
