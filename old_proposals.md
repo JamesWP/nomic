@@ -88,7 +88,7 @@ Daniel PLayle: For
 
 #304 - Amendment to 'How to vote' - passed
 
-Proposed by: Murray Colpman +([1-10], 30/9/2016: see rule 302.)
+Proposed by: Murray Colpman +4 pts
 
 This proposal would amend rule 207 as follows, causing it to become rule 304: 
 
