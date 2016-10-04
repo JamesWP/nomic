@@ -163,6 +163,11 @@ players.
 
 Each Voter has exactly one vote. The Speaker may not vote.
 
+
+###207
+
+Amended, to become rule 304.
+
 ##208 Mutable - Adopting proposals
 
 At the end of the prescribed voting period on a proposal, the
