@@ -83,7 +83,7 @@ entirely void. For the purposes of this rule a proposal to
 transmute an immutable rule does not "conflict" with that immutable
 rule.
 
-##112 (Immutable) - How to win
+##112 Immutable - How to win
 
 The state of affairs that constitutes winning may not be altered
 from achieving n points to any other state of affairs. The
@@ -164,7 +164,7 @@ players.
 Each Voter has exactly one vote. The Speaker may not vote.
 
 
-###207
+##207
 
 Amended, to become rule 304.
 
