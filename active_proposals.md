@@ -87,3 +87,15 @@ This proposal would amend rule 306, causing it to become rule 312:
 Quorum: 2 votes
 
 Status: Voting open until 13th October, 12:17 BST.
+
+#313 - Withdrawing proposals
+
+Proposed by: Harry Jeffery
+
+This proposal would create rule 313, with the text:
+
+> An active proposal may be withdrawn by the player who proposed it with no loss of points at any time.
+
+Quorum 2 votes
+
+Status: Voting open until 13th October, 12:37 BST.
