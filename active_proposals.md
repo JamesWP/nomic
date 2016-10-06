@@ -94,7 +94,7 @@ Proposed by: Harry Jeffery
 
 This proposal would create rule 313, with the text:
 
-> An active proposal may be withdrawn by the player who proposed it with no loss of points, at any time.
+> An active proposal may be withdrawn by the player who proposed it, with no loss of points, at any time.
 
 Quorum 2 votes
 
