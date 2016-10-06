@@ -113,3 +113,21 @@ Harry Jeffery: Against +10 pts
 Peter Kuehne: For  
 Murray Colpman: For  
 Daniel PLayle: For  
+
+#305 - Amendment to 'Scoring' - passed
+
+Proposed by: Nakul Khanna +6pts
+
+This proposal would amend rule 211 as follows, causing it to become rule 305:
+
+> Voters who voted against proposals which are adopted receive 10 points apiece. Players whose proposals are adopted shall receive a random number of points in the range 1-10 inclusive. Players whose proposals are not adopted shall lose 10 points. *Voters who voted in favour of a proposal which is adopted gain 5 points apiece*
+
+Quorum: 2 votes
+
+Status: Passed 3-2
+
+Harry Jeffrey: For
+James Peach: For
+Murray Colpman: Against +10pts
+Peter Kuehne: Against +10pts
+Daniel PLayle: For
