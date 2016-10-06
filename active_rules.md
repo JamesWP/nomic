@@ -323,14 +323,9 @@ period. The Speaker may not reveal any votes until the end of the
 prescribed voting period. Any Voter who does not legally vote within
 the prescribed voting period shall be deemed to have abstained. Spoilt ballots shall not count towards Quorum, but shall count as a vote, for the purposes of any other rule that might depend on whether or not a Voter has voted.
 
-##305 Mutable - Scoring
+##305
 
-*Previous numbers: 211*
-
-Voters who voted against proposals which are adopted receive 10
-points apiece. Players whose proposals are adopted shall receive
-a random number of points in the range 1-10 inclusive. Players
-whose proposals are not adopted shall lose 10 points. Voters who voted in favour of a proposal which is adopted gain 5 points apiece
+*Amended, to become rule 308.
 
 ##306 Mutable - Voting period
 
@@ -339,3 +334,12 @@ whose proposals are not adopted shall lose 10 points. Voters who voted in favour
 The prescribed voting period for a proposal shall be one week,
 beginning at the time the Speaker distributes the proposal to all
 players. If at any point a proposal has received votes in favour of it from a majority of all players, the voting period ends immediately, and the proposal succeeds.
+
+##308 Mutable - Scoring
+
+*Previous numbers: 211, 305*
+
+Voters who voted against proposals which are adopted receive 10
+points apiece. Voters who voted for proposals which do not get adopted receive 10 points apiece. Players whose proposals are adopted shall receive
+a random number of points in the range 1-10 inclusive.
+Players whose proposals are not adopted shall lose 10 points. Voters who voted in favour of a proposal which is adopted gain 5 points apiece
