@@ -153,11 +153,9 @@ distribute the proposal along with its number to all players
 
 (Speaker's note: issuing a pull request counts as submitting it to the speaker.)
 
-##205 Mutable - Voting period
+##205 
 
-The prescribed voting period for a proposal shall be one week,
-beginning at the time the Speaker distributes the proposal to all
-players.
+*Amended, to become rule 306.*
 
 ##206 Mutable - Democracy
 
@@ -333,3 +331,11 @@ Voters who voted against proposals which are adopted receive 10
 points apiece. Players whose proposals are adopted shall receive
 a random number of points in the range 1-10 inclusive. Players
 whose proposals are not adopted shall lose 10 points. Voters who voted in favour of a proposal which is adopted gain 5 points apiece
+
+##306 Mutable - Voting period
+
+*Previous numbers: 205*
+
+The prescribed voting period for a proposal shall be one week,
+beginning at the time the Speaker distributes the proposal to all
+players. If at any point a proposal has received votes in favour of it from a majority of all players, the voting period ends immediately, and the proposal succeeds.
