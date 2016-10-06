@@ -126,8 +126,26 @@ Quorum: 2 votes
 
 Status: Passed 3-2
 
-Harry Jeffrey: For
-James Peach: For
-Murray Colpman: Against +10pts
-Peter Kuehne: Against +10pts
+Harry Jeffrey: For  
+James Peach: For  
+Murray Colpman: Against +10pts  
+Peter Kuehne: Against +10pts  
 Daniel PLayle: For
+
+#306 - Amendment to 'Voting period' - Passed
+
+Proposed by: Harry Jeffery +6pts
+
+This proposal would amend rule 205, causing it become rule 306:
+
+> The prescribed voting period for a proposal shall be one week, beginning at the time the Speaker distributes the proposal to all players. *If at any point a proposal has received votes in favour of it from a majority of all players, the voting period ends immediately, and the proposal succeeds.*
+
+Quorum: 2 votes
+
+Status: Passed 4-1
+
+James Peach: For  
+Murray Colpman: For  
+Peter Kuehne: For  
+Harry Jeffery: For  
+Daniel PLayle: Against +10pts
