@@ -1,3 +1,7 @@
+These are archived, and kept for reference.
+
+When amending rules, removals are indicated by strikethrough, ~~like this~~, while additions are in italics *like this*.
+
 #301 - Motion to propose new rule governing the generating of random numbers - failed
 
 Proposed by: Peter Kuehne -10pts
@@ -149,3 +153,20 @@ Murray Colpman: For
 Peter Kuehne: For  
 Harry Jeffery: For  
 Daniel PLayle: Against +10pts
+
+#307 - Voting for your own proposals - defeated
+
+Proposed by: Harry Jeffery -10 pts
+
+This proposal would create rule 307 with the text:
+
+> Players are obligated to vote in favour of their own proposals, and as such automatically and irrevocably vote in favour of it when the proposal is submitted to the speaker.
+
+Quorum: 2 votes
+
+Status: Defeated 4-0
+
+Murray Colpman: Against  
+James Peach: Against  
+Daniel PLayle: Against  
+Peter Kuehne: Against
