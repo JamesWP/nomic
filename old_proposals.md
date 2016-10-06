@@ -28,7 +28,7 @@ Murray Colpman: Against
 Peter Kuehne: For  
 Harry Jeffery: Against  
 Nakul Khanna: For  
-Daniel PLayle: For  
+Daniel Playle: For  
 
 
 #302 - Generating random numbers. - passed
@@ -67,7 +67,7 @@ Murray Colpman: For
 Harry Jeffrey: For  
 Nakal Khanna: Against +10 pts  
 Peter Kuehne: Against +10 pts  
-Daniel PLayle: For
+Daniel Playle: For
 
 #303 - Failure to vote - failed
 
@@ -88,7 +88,7 @@ Nakul Khanna: Against
 James Peach: For  
 Peter Kuehne: Against  
 Murray Colpman: Against  
-Daniel PLayle: For  
+Daniel Playle: For  
 
 #304 - Amendment to 'How to vote' - passed
 
@@ -116,7 +116,7 @@ Nakul Khanna: Against +10 pts
 Harry Jeffery: Against +10 pts   
 Peter Kuehne: For  
 Murray Colpman: For  
-Daniel PLayle: For  
+Daniel Playle: For  
 
 #305 - Amendment to 'Scoring' - passed
 
@@ -134,7 +134,7 @@ Harry Jeffrey: For
 James Peach: For  
 Murray Colpman: Against +10pts  
 Peter Kuehne: Against +10pts  
-Daniel PLayle: For
+Daniel Playle: For
 
 #306 - Amendment to 'Voting period' - Passed
 
@@ -152,7 +152,7 @@ James Peach: For
 Murray Colpman: For  
 Peter Kuehne: For  
 Harry Jeffery: For  
-Daniel PLayle: Against +10pts
+Daniel Playle: Against +10pts
 
 #307 - Voting for your own proposals - defeated
 
@@ -168,7 +168,7 @@ Status: Defeated 4-0
 
 Murray Colpman: Against  
 James Peach: Against  
-Daniel PLayle: Against  
+Daniel Playle: Against  
 Peter Kuehne: Against
 
 #308 - Scoring updates - passed
