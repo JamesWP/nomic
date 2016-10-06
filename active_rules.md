@@ -166,7 +166,7 @@ Each Voter has exactly one vote. The Speaker may not vote.
 
 ##207
 
-Amended, to become rule 304.
+*Amended, to become rule 304.*
 
 ##208 Mutable - Adopting proposals
 
@@ -196,12 +196,9 @@ for proposals which propose to transmute a rule.
 An adopted rule change takes full effect at the moment of the
 completion of the vote that adopted it.
 
-##211 Mutable - Scoring
+##211
 
-Voters who voted against proposals which are adopted receive 10
-points apiece. Players whose proposals are adopted shall receive
-a random number of points in the range 1-10 inclusive. Players
-whose proposals are not adopted shall lose 10 points.
+*Amended to become rule 305*
 
 ##212 Mutable - Rule precedence
 
@@ -308,7 +305,8 @@ d) If the London Stock Exchange has already closed on that date, it is considere
 
 5) X is the random integer.
 
-##304 Mutable - How to vote
+##304 Mutable - How to vote  
+*Previous numbers: 207*
 
 Voters may vote on any proposal within its
 prescribed voting period.
@@ -326,3 +324,12 @@ must be received by the Speaker by the end of the prescribed voting
 period. The Speaker may not reveal any votes until the end of the
 prescribed voting period. Any Voter who does not legally vote within
 the prescribed voting period shall be deemed to have abstained. Spoilt ballots shall not count towards Quorum, but shall count as a vote, for the purposes of any other rule that might depend on whether or not a Voter has voted.
+
+##305 Mutable - Scoring
+
+*Previous numbers: 211*
+
+Voters who voted against proposals which are adopted receive 10
+points apiece. Players whose proposals are adopted shall receive
+a random number of points in the range 1-10 inclusive. Players
+whose proposals are not adopted shall lose 10 points. Voters who voted in favour of a proposal which is adopted gain 5 points apiece
