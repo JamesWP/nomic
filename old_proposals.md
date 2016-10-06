@@ -170,3 +170,27 @@ Murray Colpman: Against
 James Peach: Against  
 Daniel PLayle: Against  
 Peter Kuehne: Against
+
+#308 - Scoring updates - passed
+
+Proposed by: James Peach +(RANDOM 6/10/2016)pts
+
+This proposal would amend rule 211, causing it to become rule 308:
+
+> Voters who voted against proposals which are adopted receive 10 points apiece. 
+*Voters who voted for proposals which do not get adopted receive 10 points apiece.*
+Players whose proposals are adopted shall receive a random number of points in the range 1-10 inclusive.
+Players whose proposals are not adopted shall lose 10 points.
+
+Speaker's note: If a rule has its number changed by another proposal, existing proposals will instead refer to the new rule.
+
+Quorum: 2 votes  
+Majority: 4 votes
+
+Status: Passed 4-1
+
+James Peach: Against +10pts  
+Harry Jeffery: For +5pts  
+Murray Colpman: For +5pts  
+Peter Kuehne: For +5pts  
+Daniel Playle: For +5pts
