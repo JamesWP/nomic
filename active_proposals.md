@@ -76,7 +76,7 @@ Quorum: 2 votes
 
 Status: Voting open until 13th October 2016, 11:17 BST
 
-#312 Passing proposals early
+#312 - Passing proposals early
 
 Proposed by: Nakul Khanna
 
