@@ -69,4 +69,4 @@ This proposal may require the speaker's consent.
 Quorum: 2 votes  
 Majority: 4 votes
 
-Status: Voting open until 7th October 2016, BST
+Status: Voting open until 7th October 2016, 11:42 BST
