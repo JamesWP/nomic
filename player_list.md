@@ -1,9 +1,9 @@
 Name | Role | Points
 ---|---|---
 Arkady English | Speaker | 0
-Daniel Playle | Voter | 10
-Harry Jeffery |	Voter |	-1
-James Peach | Voter | 0
-Murray Colpman	| Voter |	14
+Daniel Playle | Voter | 15
+Harry Jeffery |	Voter |	4
+James Peach | Voter | 10 + RANDOM (6/10/2016)
+Murray Colpman	| Voter |	19
 Nakul Khanna	| Voter	| 26
-Peter Kuehne | Voter | 10
+Peter Kuehne | Voter | 15
