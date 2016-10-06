@@ -2,24 +2,6 @@ Please send votes to the speaker.
 
 When amending rules, removals are indicated by strikethrough, ~~like this~~, while additions are in italics *like this*.
 
-#308 - Scoring updates
-
-Proposed by: James Peach
-
-This proposal would amend rule 211, causing it to become rule 308:
-
-> Voters who voted against proposals which are adopted receive 10 points apiece. 
-*Voters who voted for proposals which do not get adopted receive 10 points apiece.*
-Players whose proposals are adopted shall receive a random number of points in the range 1-10 inclusive.
-Players whose proposals are not adopted shall lose 10 points.
-
-Speaker's note: If a rule has its number changed by another proposal, existing proposals will instead refer to the new rule.
-
-Quorum: 2 votes  
-Majority: 4 votes
-
-Status: Voting open until 7th October 11:38 BST
-
 #309 - Investing
 
 Proposed by: Harry Jeffery
