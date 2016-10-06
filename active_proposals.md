@@ -78,6 +78,12 @@ Status: Voting open until 13th October 2016, 11:17 BST
 
 #312 Passing proposals early
 
+Proposed by: Nakul Khanna
+
 This proposal would amend rule 306, causing it to become rule 312:
 
 > The prescribed voting period for a proposal shall be one week, beginning at the time the Speaker distributes the proposal to all players. If at any point a proposal has received votes in favour of *or against* it from a majority of all players, the voting period ends immediately, and the proposal succeeds *or fails respectively*.
+
+Quorum: 2 votes
+
+Status: Voting open until 13th October, 12:17 BST.
