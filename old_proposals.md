@@ -2,7 +2,7 @@ These are archived, and kept for reference.
 
 When amending rules, removals are indicated by strikethrough, ~~like this~~, while additions are in italics *like this*.
 
-#301 - Motion to propose new rule governing the generating of random numbers - failed
+#301 - Motion to propose new rule governing the generating of random numbers - defeated
 
 Proposed by: Peter Kuehne -10pts
 
@@ -22,7 +22,7 @@ Notes: throws being required to be carried out in the presence of a quorum of pl
 
 Quorum: 1 vote.
 
-Voting status: 3-2 in favour - failed.
+Voting status: 3-2 in favour
 
 Murray Colpman: Against  
 Peter Kuehne: For  
@@ -61,7 +61,7 @@ Speaker's consent: given
 
 Quorum: 1 vote.
 
-Voting status: 3-2 in favour; passed
+Voting status: 3-2 in favour
 
 Murray Colpman: For  
 Harry Jeffrey: For  
@@ -69,7 +69,7 @@ Nakal Khanna: Against +10 pts
 Peter Kuehne: Against +10 pts  
 Daniel Playle: For
 
-#303 - Failure to vote - failed
+#303 - Failure to vote - defeated
 
 Proposed by: Harry Jeffery -10 pts
 
@@ -110,7 +110,7 @@ This proposal would amend rule 207 as follows, causing it to become rule 304:
 
 Quorum: 2 votes
 
-Status: Passed 3-2
+Status: 3-2 in favour
 
 Nakul Khanna: Against +10 pts   
 Harry Jeffery: Against +10 pts   
@@ -128,7 +128,7 @@ This proposal would amend rule 211 as follows, causing it to become rule 305:
 
 Quorum: 2 votes
 
-Status: Passed 3-2
+Status: 3-2 in favour
 
 Harry Jeffrey: For  
 James Peach: For  
@@ -146,7 +146,7 @@ This proposal would amend rule 205, causing it become rule 306:
 
 Quorum: 2 votes
 
-Status: Passed 4-1
+Status: 4-1 in favour
 
 James Peach: For  
 Murray Colpman: For  
@@ -164,7 +164,7 @@ This proposal would create rule 307 with the text:
 
 Quorum: 2 votes
 
-Status: Defeated 4-0
+Status: 4-0 against
 
 Murray Colpman: Against  
 James Peach: Against  
@@ -187,7 +187,7 @@ Speaker's note: If a rule has its number changed by another proposal, existing p
 Quorum: 2 votes  
 Majority: 4 votes
 
-Status: Passed 4-1
+Status: 4-1 in favour
 
 James Peach: Against +10pts  
 Harry Jeffery: For +5pts  
@@ -243,7 +243,7 @@ The speaker gives their consent.
 
 Quorum: 2 votes  
 
-Status: Defeated 3-3
+Status: tied 3-3; no majority
 
 James Peach: Against  
 Harry Jeffery: For +10pts  
