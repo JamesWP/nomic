@@ -343,3 +343,47 @@ Voters who voted against proposals which are adopted receive 10
 points apiece. Voters who voted for proposals which do not get adopted receive 10 points apiece. Players whose proposals are adopted shall receive
 a random number of points in the range 1-10 inclusive.
 Players whose proposals are not adopted shall lose 10 points. Voters who voted in favour of a proposal which is adopted gain 5 points apiece
+
+##314 Mutuable - Investing
+
+A player may choose to invest their points in the stock market.
+
+The process of investing is as follows:
+
+1) The player must declare their investment to the speaker.
+
+a) The declaration must be made at least a day in advance of the open date.
+
+b) The player must specify which security they wish to invest in.
+
+i) The security's price must be published by Bloomberg.
+
+ii) The security must be traded on either the London Stock Exchange, or the New York Stock Exchange.
+
+c) The player must specify an open date, and a close date.
+
+i) Both the open date, and close date must be in the future.
+
+ii) The close date may not be before the open date, but may be the same as the open date.
+
+d) The player must specify how many points they shall be investing.
+
+i) The number of points invested must be less than or equal to the number of points the player current has.
+
+2) On the specified open date the speaker shall:
+
+a) Subtract the invested points from the player.
+
+b) Make a note of the opening price of the specified security on that date, as published by Bloomberg. This shall be the open price.
+
+3) On the specified close date the speaker shall:
+
+a) Make a note of the closing price of the specified security on that date, as published by Bloomberg. This shall be the close price.
+
+b) Award the player X points, where X is equal to the points invested, multiplied by the close price, divided by the open price.
+
+Additional restrictions:
+
+1) All investments are confidential. The speaker may not publicise or disclose one player's investments to another.
+
+2) Once an investment has been declared to the speaker, it is binding. The player may not cancel their investment.
