@@ -2,7 +2,7 @@ Name | Role | Points
 ---|---|---
 Arkady English | Speaker | 0
 Daniel Playle | Voter | 30
-Harry Jeffery |	Voter |	16
+Harry Jeffery |	Voter |	18
 James Peach | Voter | 22
 Murray Colpman	| Voter |	34
 Nakul Khanna	| Voter	| 36
