@@ -307,7 +307,7 @@ This proposal would create rule 313, with the text:
 
 Quorum 2 votes
 
-Harry Jeffery: For +10pts
+Harry Jeffery: For +10pts  
 Murray Colpan: For +10pts  
 Nakul Khanna: Against  
 Daniel Playle: Against  
