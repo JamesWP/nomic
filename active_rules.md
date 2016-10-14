@@ -58,15 +58,9 @@ completion of the vote that adopted it, even if its wording
 explicitly states otherwise. No rule change may have retroactive
 application.
 
-##109 Immutable - Proposal numbering
+##109 
 
-The Speaker shall give each proposed rule change a number for
-reference. The numbers shall begin with 301, and each rule change
-proposed in the proper way shall receive the next successive
-integer, whether or not the proposal is adopted.
-If a rule is repealed and reenacted, it receives the number of the
-proposal to reenact it. If a rule is amended or transmuted, it
-receives the number of the proposal to amend or transmute it.
+*Amended, to become rule 322.*
 
 ##110 Immutable - Transmutation
 
@@ -387,3 +381,19 @@ Additional restrictions:
 1) All investments are confidential. The speaker may not publicise or disclose one player's investments to another.
 
 2) Once an investment has been declared to the speaker, it is binding. The player may not cancel their investment.
+
+##322 - Proposal identifiers
+
+The proposer shall give each proposed rule change an identifier for
+reference.
+
+The identifiers must consist of four characters A-Z.
+Legacy rules submitted before this rule came into effect will retain
+their number and shall not receive a new-style identifier. If a rule
+is repealed and reenacted, it receives the identifier of the
+proposal to reenact it. If a rule is amended or transmuted, it
+receives the identifier of the proposal to amend or transmute it.
+
+In the list of rules, legacy rules shall appear first, sorted
+numerically, followed by alphabetically-identified rules, sorted
+lexicographically.
