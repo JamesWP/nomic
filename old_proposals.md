@@ -252,6 +252,68 @@ Peter Kuehne: Against
 Daniel Playle: For +10pts  
 Nakul Khanna: Against
 
+#310 - Loss of the game by points - defeated
+
+Proposed by: Murray Colpman -10pts
+
+This proposal would create rule 310 with the text:
+
+> Any player who has points less than or equal to the negation of the number of points required to unconditionally win the game shall lose the game. They shall be removed as a player and will be unable to rejoin the game, until a new game is begun. They will have to actively opt in to rejoining the game. They may do so at any time before the restarting of the game.
+
+Quorum: 2 votes
+
+Harry Jeffery: Against  
+Peter Kühne: Against  
+Nakul Khanna: Against  
+Murray Copman: For +10pts  
+
+#311 - Loss of the game by failure to vote - defeated
+
+Proposed by: Murray Colpman -10pts
+
+This proposal would create rule 311 with the text:
+
+> Any player who submits no vote (for the purposes of this rule, a spoilt ballot qualifies as a vote) on four consecutively-numbered proposals shall lose the game. They shall be removed as a player and will be unable to rejoin the game, until a new game is begun. They will have to actively opt in to rejoining the game. They may do so at any time before the restarting of the game.
+
+Quorum: 2 votes
+
+Harry Jeffery: Against  
+Peter Kühne: Against  
+Nakul Khanna: Against  
+Murray Colpan: For +10pts  
+
+#312 - Passing proposals early - defeated
+
+Proposed by: Nakul Khanna -10pts
+
+This proposal would amend rule 306, causing it to become rule 312:
+
+> The prescribed voting period for a proposal shall be one week, beginning at the time the Speaker distributes the proposal to all players. If at any point a proposal has received votes in favour of *or against* it from a majority of all players, the voting period ends immediately, and the proposal succeeds *or fails respectively*.
+
+Quorum: 2 votes
+
+Harry Jeffery: Against  
+Murray Colpan: Against  
+Nakul Khanna: For +10pts  
+Peter Kühne: Against
+
+#313 - Withdrawing proposals - defeated
+
+Proposed by: Harry Jeffery -10pts
+
+This proposal would create rule 313, with the text:
+
+> An active proposal may be withdrawn by the player who proposed it, with no loss of points, at any time.
+
+Quorum 2 votes
+
+Harry Jeffery: For +10pts
+Murray Colpan: For +10pts  
+Nakul Khanna: Against  
+Daniel Playle: Against  
+Peter Kühne: Against
+
+
 #314 - Investing (2) - passed
 
 Proposed by: Harry Jeffery +(RAND: 12/10/2016)pts.
@@ -312,3 +374,5 @@ Daniel Playle: For +5pts
 Nakul Khanna: Against +10pts  
 Peter Kühne: Against +10pts  
 James Peach: For +5pts
+
+
