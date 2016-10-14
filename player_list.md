@@ -1,6 +1,6 @@
 Name | Role | Points
 ---|---|---
-Harry Jeffery |	Speaker |	0
+Harry Jeffery |	Speaker |	10
 Arkady English | Voter | 0
 Daniel Playle | Voter | 0
 James Peach | Voter | 0
