@@ -414,3 +414,17 @@ Murray Colpan: For +5pts
 Daniel Playle: For +5pts  
 Nakul Khanna: For +5pts  
 James Peach: For +5pts
+
+
+##VPRD - 306 Transmutation - passed
+
+Proposed by: James Peach +RAND(14/10/2016)pts
+
+This proposal shall transmute 306 to become immutable.
+
+Quorum: 2
+
+Murray Colpan: For +5pts  
+Daniel Playle: For +5pts  
+Nakul Khanna: For +5pts  
+James Peach: For +5pts
