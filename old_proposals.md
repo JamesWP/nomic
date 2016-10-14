@@ -377,7 +377,7 @@ James Peach: For +5pts
 
 #318 - Repeal 314 - passed
 
-Proposed by: Nakul Khanna +RAND(14/10/2016)pts
+Proposed by: Nakul Khanna +6pts
 
 This proposal would entirely repeal rule 314 (Investing).
 
@@ -390,7 +390,7 @@ James Peach: For +5pts
 
 #322 - Proposal Identification Update - passed
 
-Proposed by: James Peach +RAND(14/10/2016)pts
+Proposed by: James Peach +6pts
 
 This proposal would transmute rule 109 to be mutable, and then update it to read as follows:
 
@@ -418,7 +418,7 @@ James Peach: For +5pts
 
 ##VPRD - 306 Transmutation - passed
 
-Proposed by: James Peach +RAND(14/10/2016)pts
+Proposed by: James Peach +6pts
 
 This proposal shall transmute 306 to become immutable.
 
