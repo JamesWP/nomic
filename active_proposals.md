@@ -142,3 +142,27 @@ This proposal would create rule 321:
 Quorum: 2 votes.
 
 Status: Voting open until 21st October 2016, 10:11 BST
+
+#322 - Proposal Identification Update
+
+Proposed by: James Peach
+
+This proposal would transmute rule 109 to be mutable, and then update it to read as follows:
+
+> The proposer shall give each proposed rule change ~~a number~~ *an identifier* for
+> reference. ~~The numbers shall begin with 301, and each rule change
+> proposed in the proper way shall receive the next successive
+> integer, whether or not the proposal is adopted.~~
+> *The identifiers must consist of four characters A-Z.
+> Legacy rules submitted before this rule came into effect will retain
+> their number and shall not receive a new-style identifier.* If a rule
+> is repealed and reenacted, it receives the ~~number~~ *identifier* of the
+> proposal to reenact it. If a rule is amended or transmuted, it
+> receives the ~~number~~ *identifier* of the proposal to amend or transmute it.
+> *In the list of rules, legacy rules shall appear first, sorted
+> numerically, followed by alphabetically-identified rules, sorted
+> lexicographically.*
+
+Quorum: 2 votes.
+
+Status: Voting open until 21st October 2016, 10:24 BST
