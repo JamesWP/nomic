@@ -1,12 +1,12 @@
 Name | Role | Points
 ---|---|---
 Arkady English | Speaker | 0
-Daniel Playle | Voter | 30
-Harry Jeffery |	Voter |	18
-James Peach | Voter | 22
-Murray Colpman	| Voter |	34
-Nakul Khanna	| Voter	| 36
-Peter Kuehne | Voter | 25
+Daniel Playle | Voter | 0
+Harry Jeffery |	Voter |	0
+James Peach | Voter | 0
+Murray Colpman	| Voter |	0
+Nakul Khanna	| Voter	| 0
+Peter Kuehne | Voter | 0
 
 Voting history:
 
@@ -34,3 +34,7 @@ P: Proposer
 312||X|X|X|X|PX|X
 313||X|X|PX|X|X|X
 314||+|P+|+|+|-|-
+
+Previous winners:
+
+* 2016-10-13 - Harry Jeffery
