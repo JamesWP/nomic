@@ -54,6 +54,8 @@ This proposal would create rule 317 with the text:
 
 > Predictions are public information.
 
+Speaker note: Popular vote percentage shall be used.
+
 Quorum: 2 votes.
 
 Status: Voting open until 21st October 2016, 10:04 BST
