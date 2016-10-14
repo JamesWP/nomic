@@ -375,6 +375,19 @@ Nakul Khanna: Against +10pts
 Peter Kühne: Against +10pts  
 James Peach: For +5pts
 
+#318 - Repeal 314 - passed
+
+Proposed by: Nakul Khanna +RAND(14/10/2016)pts
+
+This proposal would entirely repeal rule 314 (Investing).
+
+Quorum: 2 votes.
+
+Murray Colpan: For +5pts  
+Daniel Playle: For +5pts  
+Nakul Khanna: For +5pts  
+James Peach: For +5pts  
+
 #322 - Proposal Identification Update - passed
 
 Proposed by: James Peach +RAND(14/10/2016)pts
