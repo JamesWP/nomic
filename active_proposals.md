@@ -60,16 +60,6 @@ Quorum: 2 votes.
 
 Status: Voting open until 21st October 2016, 10:04 BST
 
-#318 - Repeal 314
-
-Proposed by: Nakul Khanna
-
-This proposal would entirely repeal rule 314 (Investing).
-
-Quorum: 2 votes.
-
-Status: Voting open until 21st October 2016, 10:32 BST
-
 #319 - SUPER-PROPOSALS
 
 Proposed by: Arkady English
