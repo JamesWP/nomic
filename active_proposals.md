@@ -132,3 +132,12 @@ Quorum: 2 votes.
 
 Status: Voting open until 21st October 2016, 10:11 BST
 
+##VPRD - 306 Transmutation
+
+Proposed by: James Peach
+
+This proposal shall transmute 306 to become immutable.
+
+Quorum: 2
+
+Status: Voting open until 21st October 2016, 16:13 BST
