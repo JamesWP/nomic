@@ -375,4 +375,29 @@ Nakul Khanna: Against +10pts
 Peter Kühne: Against +10pts  
 James Peach: For +5pts
 
+#322 - Proposal Identification Update - passed
 
+Proposed by: James Peach +RAND(14/10/2016)pts
+
+This proposal would transmute rule 109 to be mutable, and then update it to read as follows:
+
+> The proposer shall give each proposed rule change ~~a number~~ *an identifier* for
+> reference. ~~The numbers shall begin with 301, and each rule change
+> proposed in the proper way shall receive the next successive
+> integer, whether or not the proposal is adopted.~~
+> *The identifiers must consist of four characters A-Z.
+> Legacy rules submitted before this rule came into effect will retain
+> their number and shall not receive a new-style identifier.* If a rule
+> is repealed and reenacted, it receives the ~~number~~ *identifier* of the
+> proposal to reenact it. If a rule is amended or transmuted, it
+> receives the ~~number~~ *identifier* of the proposal to amend or transmute it.
+> *In the list of rules, legacy rules shall appear first, sorted
+> numerically, followed by alphabetically-identified rules, sorted
+> lexicographically.*
+
+Quorum: 2 votes.
+
+Murray Colpan: For +5pts  
+Daniel Playle: For +5pts  
+Nakul Khanna: For +5pts  
+James Peach: For +5pts
