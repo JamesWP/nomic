@@ -321,14 +321,6 @@ the prescribed voting period shall be deemed to have abstained. Spoilt ballots s
 
 *Amended, to become rule 308.
 
-##306 Mutable - Voting period
-
-*Previous numbers: 205*
-
-The prescribed voting period for a proposal shall be one week,
-beginning at the time the Speaker distributes the proposal to all
-players. If at any point a proposal has received votes in favour of it from a majority of all players, the voting period ends immediately, and the proposal succeeds.
-
 ##308 Mutable - Scoring
 
 *Previous numbers: 211, 305*
@@ -353,3 +345,11 @@ receives the identifier of the proposal to amend or transmute it.
 In the list of rules, legacy rules shall appear first, sorted
 numerically, followed by alphabetically-identified rules, sorted
 lexicographically.
+
+##VPRD - Immutable - Voting period
+
+*Previous identifiers: 205, 306*
+
+The prescribed voting period for a proposal shall be one week,
+beginning at the time the Speaker distributes the proposal to all
+players. If at any point a proposal has received votes in favour of it from a majority of all players, the voting period ends immediately, and the proposal succeeds.
