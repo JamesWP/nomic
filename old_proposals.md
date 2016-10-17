@@ -428,3 +428,24 @@ Murray Colpan: For +5pts
 Daniel Playle: For +5pts  
 Nakul Khanna: For +5pts  
 James Peach: For +5pts
+
+
+#PRIV - Private Data - Passed
+
+Proposed by: James Peach +RAND pts
+
+This proposal would create rule PRIV:
+
+> - Upon a change of speaker, all private knowledge about the game that the speaker holds must made available to all players.
+> - With the exception of the votes
+> 
+> <!-- James Peach's vote is worth 100 votes. James Peach may instruct the speaker to award or deduct any number of points to or from any player at any time. The speaker may not disclose why any point changes, as instructed by James Peach, were made. -->
+
+Quorum: 2 votess
+
+Murray Colpan: For +5pts  
+Daniel Playle: For +5pts    
+Nakul Khanna: For +5pts    
+James Peach: For +5pts  
+Arkady English: For +5pts  
+George Vanburgh: Against +10pts  
