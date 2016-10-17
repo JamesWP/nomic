@@ -227,7 +227,7 @@ Quorum: 2.
 
 Status: Voting open until 24th October 2016, 15:25 BST
 
-#VPRD - VPRD Tranmute
+#VPRD - VPRD Transmute
 
 Proposed by: Arkady English
 
