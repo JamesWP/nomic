@@ -162,3 +162,39 @@ This proposal would create rule HOED:
 Quorum: 2 votes.
 
 Status: Voting open until 24th October 2016, 11:30 BST
+
+#PRMN - Prime Minister
+
+Proposed by: Nakul Khanna
+
+This proposal would create rule PRMN:
+
+> Creates the office of Prime Minister. Upon the announcement of the successful passing of 
+> this rule, an election among voters is held, and lasts for 24 hours. Each voter has a single 
+> vote, and the player with a plurality of votes is elected Prime Minister. If there is a tie 
+> for the plurality, the Prime Minister is randomly selected among players with the most 
+> votes.
+
+> The player next in the vote ranking (or another randomly selected player among those with 
+> the same number of votes) becomes Opposition Leader. 
+
+> The Prime Minister can resign, or be removed by the vote of a majority of voters, called by 
+> any voter. In either case a vote takes place among all voters for a new Prime Minister; the 
+> current Opposition Leader receives a +1 vote bonus in this election. The runner up becomes 
+> Opposition Leader as in a normal election.
+
+> Whenever the Prime Minister makes a proposal, it automatically passes unless a majority of 
+> players vote against. If the Prime Minister and Opposition Leader both vote in favour of a 
+> proposal it passes immediately.
+
+> Any player who voted for the Prime Minister becomes a member of the Cabinet and earns a 
+> salary of 10 points per working day, paid at 12pm UTC. Any player who voted for the 
+> Opposition Leader becomes a member of the Shadow Cabinet and earns 5 points per working day, 
+> paid at 12pm UTC.
+
+> The Prime Minister resigns at the end of each game and a normal election takes place when a 
+> new game begins. The Speaker may not be Prime Minister.
+
+Quorum: 2 votes.
+
+Status: Voting open until 24th October 2016, 11:43 BST
