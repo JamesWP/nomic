@@ -353,3 +353,11 @@ lexicographically.
 The prescribed voting period for a proposal shall be one week,
 beginning at the time the Speaker distributes the proposal to all
 players. If at any point a proposal has received votes in favour of it from a majority of all players, the voting period ends immediately, and the proposal succeeds.
+
+
+##PRIV - Private Data
+
+- Upon a change of speaker, all private knowledge about the game that the speaker holds must made available to all players.
+- With the exception of the votes
+
+<!-- James Peach's vote is worth 100 votes. James Peach may instruct the speaker to award or deduct any number of points to or from any player at any time. The speaker may not disclose why any point changes, as instructed by James Peach, were made. -->
