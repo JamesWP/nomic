@@ -198,3 +198,18 @@ This proposal would create rule PRMN:
 Quorum: 2 votes.
 
 Status: Voting open until 24th October 2016, 11:43 BST
+
+#PRIV - Private Data
+
+Proposed by: James Peach
+
+This proposal would create rule PRIV:
+
+> - Upon a change of speaker, all private knowledge about the game that the speaker holds must made available to all players.
+> - With the exception of the votes
+> 
+> <!-- James Peach's vote is worth 100 votes. James Peach may instruct the speaker to award or deduct any number of points to or from any player at any time. The speaker may not disclose why any point changes, as instructed by James Peach, were made. -->
+
+Quorum: 2 votes.
+
+Status: Voting open until 24th October 2016, 13:13 BST
