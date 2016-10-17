@@ -1,13 +1,13 @@
 Name | Role | Points
 ---|---|---
 Harry Jeffery |	Speaker |	-1234568013
-Arkady English | Voter | 0
-Daniel Playle | Voter | 15
-James Peach | Voter | 32
-Murray Colpman	| Voter |	25
-Nakul Khanna	| Voter	| 21
+Arkady English | Voter | 5
+Daniel Playle | Voter | 20
+James Peach | Voter | 37
+Murray Colpman	| Voter |	30
+Nakul Khanna	| Voter	| 26
 Peter Kuehne | Voter | 0
-George Vanburgh | Voter | 0 
+George Vanburgh | Voter | 10 
 
 Voting history:
 
@@ -37,7 +37,8 @@ Prop| AE | DP | HJ | JP | MC | NK | PK | GV
  314|    | +  |P+  | +  | +  | -  |-   |
  318| +  | .  |    | +  | +  |P+  |.   |
  322| .  | +  |    |P+  | +  | +  |.   |
- PRD| .  | +  |    |P+  | +  | +  |.   |
+VPRD| .  | +  |    |P+  | +  | +  |.   |
+PRIV| +  | +  |    |P+  | +  | +  |.   | -
 
 Previous winners:
 
