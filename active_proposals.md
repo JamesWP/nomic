@@ -212,3 +212,27 @@ This proposal shall amend the VPRD rule:
 Quorum: 2 votes.
 
 Status: Voting open until 24th October 2016, 14:52 BST
+
+#PREC - Rule precedence
+
+Proposed by: Arkady English
+
+This proposal shall update rule 212 to say:
+
+> If two or more mutable rules conflict with one another, or if two or more immutable rules conflict with one another, then the rule ~~with the lowest ordinal number takes precedence~~ *that has existed in its current form for longest takes precedence*. If at least one of the rules in conflict explicitly says of itself that it defers to another rule (or type of rule) or takes precedence over another rule (or type of rule), then such provisions shall supersede the ~~numerical~~ *age* method for determining precedence. If two or more rules claim to take precedence over one another or defer to one another, then the ~~numerical~~ *age* method again governs.
+
+> *If none of the above works (i.e. the rules are the same age) then numbered rules take precedence over other rules; between two numbered rules the lowest number takes precedence; between two non-numbered rules the one with the identifier that is earliest lexically takes precedence.*
+
+Quorum: 2.
+
+Status: Voting open until 24th October 2016, 15:25 BST
+
+#VPRD - VPRD Tranmute
+
+Proposed by: Arkady English
+
+Transmute VPRD to be mutable.
+
+Unanimity required.
+
+Status: Voting open until 24th October 2016, 15:25 BST
