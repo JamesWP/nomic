@@ -1,14 +1,14 @@
 Name | Role | Points
 ---|---|---
-Harry Jeffery |	Speaker |	-1234568013
-Arkady English | Voter | 10
-Daniel Playle | Voter | 25
+Harry Jeffery |	Speaker |	99
+Arkady English | Voter | 99
+Daniel Playle | Voter | 99
 James Peach | Voter | 0
-Murray Colpman	| Voter |	25
-Nakul Khanna	| Voter	| 42
-Peter Kuehne | Voter | 0
-George Vanburgh | Voter | 30 
-Alex Wilton | Voter | 0
+Murray Colpman	| Voter |	99
+Nakul Khanna	| Voter	| 99
+Peter Kuehne | Voter | 99
+George Vanburgh | Voter | 99
+Alex Wilton | Voter | 99
 
 Voting history:
 
