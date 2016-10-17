@@ -39,8 +39,8 @@ Prop| AE | DP | HJ | JP | MC | NK | PK | GV | AW
  318| +  | .  |    | +  | +  |P+  |.   |    |
  322| .  | +  |    |P+  | +  | +  |.   |    |
 VPRD| .  | +  |    |P+  | +  | +  |.   |    |
-PRIV| +  | +  |    |P+  | +  | +  |.   | -  |
-PRMN| +  | +  |    | +  | +  |P+  |.   | -  |
+PRIV| +  | +  |    |P+  | +  | +  |.   | -  | -
+PRMN| +  | +  |    | +  | +  |P+  |.   | -  | -
 
 Previous winners:
 
