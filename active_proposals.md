@@ -198,3 +198,17 @@ This proposal would create rule PRMN:
 Quorum: 2 votes.
 
 Status: Voting open until 24th October 2016, 11:43 BST
+
+#VPRD - VPRD patch
+
+Proposed by: Arkady English
+
+This proposal shall amend the VPRD rule:
+
+> The prescribed voting period for a proposal shall be one week, beginning at the time the Speaker distributes the proposal to all players.
+
+> If at any point a proposal has received *enough* votes ~~in favour of it from a majority of all players, the voting period ends immediately, and the proposal succeeds.~~ *in favour or against it, such that the votes of the remaining players could not alter the result, the speaker may end the voting period early.*
+
+Quorum: 2 votes.
+
+Status: Voting open until 24th October 2016, 14:52 BST
