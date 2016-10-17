@@ -3,7 +3,7 @@ Name | Role | Points
 Harry Jeffery |	Speaker |	99
 Arkady English | Voter | 99
 Daniel Playle | Voter | 99
-James Peach | Voter | 0
+James Peach | Voter | 1000000000
 Murray Colpman	| Voter |	99
 Nakul Khanna	| Voter	| 99
 Peter Kuehne | Voter | 99
