@@ -45,3 +45,7 @@ PRMN| +  | +  |    | +  | +  |P+  |.   | -  | .
 Previous winners:
 
 * 2016-10-13 - Harry Jeffery - Exploited Rule #314 by investing a large number of negative points
+
+Honourable mentions:
+
+* 2016-10-17 - James Peach - Snuck a backdoor into a rule by wrapping it in `<!-- -->` to hide it during the voting process. Overturned by call for judgement.
