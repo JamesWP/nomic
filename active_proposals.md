@@ -150,3 +150,15 @@ This proposal would create rule BEGR:
 Quorum: 2 votes.
 
 Status: Voting open until 24th October 2016, 10:00 BST
+
+#HOED - Rule Interpretation
+
+Proposed by: Murray Colpman
+
+This proposal would create rule HOED:
+
+> All rules shall be interpreted as written, in plaintext. When interpreting rules, the speaker shall use the OED's (http://www.oed.com) definition of words for the context they are used in.
+
+Quorum: 2 votes.
+
+Status: Voting open until 24th October 2016, 11:30 BST
