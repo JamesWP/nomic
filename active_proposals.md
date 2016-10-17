@@ -131,3 +131,22 @@ This proposal would create rule 321:
 Quorum: 2 votes.
 
 Status: Voting open until 21st October 2016, 10:11 BST
+
+#BEGR - Begging
+
+Proposed by: James Peach
+
+This proposal would create rule BEGR:
+
+> - Once a week, a player may notify the speaker of eir intention to 'beg'.
+> - When a player begs (the 'begger'), another player is selected (the 'begee') at random by the speaker (1), 
+> - Points are then taken from the begee and given to the begger, the 'amount' to be taken is 5% of the begee's current score. (2).
+
+> -----------------
+> 1: by creating a random number between 0 and the total number of players -1, and then selecting the player based on eir index in the player table.
+
+> 2: when the 'amount' is calculated it is calculated as follows: ceil(('begee' score)*0.05).
+
+Quorum: 2 votes.
+
+Status: Voting open until 24th October 2016, 10:00 BST
